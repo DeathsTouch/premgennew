@@ -1,0 +1,16 @@
+{
+    "token": "MTAxMTM4OTE3MTQzNDI3MDc3MQ.GuTfaK.UHrwZed4fFBVmp7oE34UI7HeLfHLlvMnJwgrus",
+    "prefix": "cyber ",
+    "genChannel": "1007656484835958815",
+    "genCooldown": "1000",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
